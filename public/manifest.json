@@ -1,0 +1,14 @@
+{
+  "name": "KeyChat",
+  "description": "KeyChat is a Base Mini App built with Zara.",
+  "image": "https://dummyimage.com/1200x628/0a0b0d/ffffff.png&text=OG",
+  "external_url": "https://9e60e50e-49d2-48e2-a796-804c499ad923.vistara.dev",
+  "properties": {
+    "app": {
+      "name": "KeyChat",
+      "description": "KeyChat is a Base Mini App built with Zara.",
+      "url": "https://9e60e50e-49d2-48e2-a796-804c499ad923.vistara.dev",
+      "icon": "https://0co.to/images/zara-2.png"
+    }
+  }
+}
